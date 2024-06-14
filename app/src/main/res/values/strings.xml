@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">YourFlower</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="copyright"> Aplikasi yourflower, adalah aplikasi yang memudahkan kamu untuk mengetahui nama bungan dan juga nama latin nya.</string>
+    <string name="tambah_bunga">Tambah Bunga</string>
+    <string name="profil">Profil</string>
+    <string name="nama">Nama Bunga</string>
+    <string name="namalatin">Nama Latin</string>
+    <string name="gambar">Gambar %1$s</string>0
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="konfirmasi_hapus">Yakin ingin menghapus?</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="hapus">Hapus</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="template_bagikan">Bunga %1$s memilik nama latin %2$s loh! Mau tau lebih banyak? Ayo pakai aplikasi %3$s!</string>
+</resources>
